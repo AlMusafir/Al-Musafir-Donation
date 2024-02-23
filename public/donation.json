@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/Z6QZRsq/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "categoryBgColor": "#AEC8FF",
+        "cardBgColor": "#D9E5FF",
+        "primaryColor": "#0052FF",
+        "dsc": "An increasing number of studies and reports from different organizations and contexts examine the linkages between health and different factors, including lifestyles, environments, health care organization and health policy, one specific health policy brought into many countries in recent years was the introduction of the sugar tax.",
+        "price": 129.99
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/9c1F6cK/Education-1.png",
+        "title": "Good education",
+        "category": "Education",
+        "categoryBgColor": "#FFC3C5",
+        "cardBgColor": "#FFE3E4",
+        "primaryColor": "#FF444A",
+        "dsc": "Education is the transmission of knowledge, skills, and character traits. There are many debates about its precise definition, for example, about which aims it tries to achieve. A further issue is whether part of the meaning of education is that the change in the student is an improvement. Some researchers stress the role of critical thinking to distinguish education from indoctrination. These disagreements affect how to identify, measure, and improve forms of education. The term can also refer to the mental states and qualities of educated people. Additionally, it can mean the academic field studying education.",
+        "price": 249.99
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/tBXcpKv/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "categoryBgColor": "#D4ECC1",
+        "cardBgColor": "#EBF6E2",
+        "primaryColor": "#79C23F",
+        "dsc": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together. The wearing of clothing is mostly restricted to human beings and is a feature of all human societies. The amount and type of clothing worn depends on gender, body type, social factors, and geographic considerations. Garments cover the body, footwear covers the feet, gloves cover the hands, while hats and headgear cover the head, and underwear covers the private parts.",
+        "price": 139.99
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/2y0nNj0/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "categoryBgColor": "#FDD2C4",
+        "cardBgColor": "#FEEAE3",
+        "primaryColor": "#F87147",
+        "dsc": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill a specific ecological niche within specific geographical contexts.",
+        "price": 229.99
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/WK4zFF7/close-up-volunteers-collecting-food-11zon.jpg",
+        "title": " promote food",
+        "category": "Food",
+        "categoryBgColor": "#FDD2C4",
+        "cardBgColor": "#FEEAE3",
+        "primaryColor": "#F87147",
+        "dsc": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill a specific ecological niche within specific geographical contexts.",
+        "price": 329.99
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/HrVWR9w/volunteer-holding-clothes-donation-box-11zon-11zon.jpg",
+        "title": "Gender-Neutral Kids'",
+        "category": "Clothing",
+        "categoryBgColor": "#D4ECC1",
+        "cardBgColor": "#EBF6E2",
+        "primaryColor": "#79C23F",
+        "dsc": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together. The wearing of clothing is mostly restricted to human beings and is a feature of all human societies. The amount and type of clothing worn depends on gender, body type, social factors, and geographic considerations. Garments cover the body, footwear covers the feet, gloves cover the hands, while hats and headgear cover the head, and underwear covers the private parts.",
+        "price": 259.99
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/9vw8qpG/brainstorm-meeting-11zon-11zon-11zon.jpg",
+        "title": " Education, training",
+        "category": "Education",
+        "categoryBgColor": "#FFC3C5",
+        "cardBgColor": "#FFE3E4",
+        "primaryColor": "#FF444A",
+        "dsc": "Education is the transmission of knowledge, skills, and character traits. There are many debates about its precise definition, for example, about which aims it tries to achieve. A further issue is whether part of the meaning of education is that the change in the student is an improvement. Some researchers stress the role of critical thinking to distinguish education from indoctrination. These disagreements affect how to identify, measure, and improve forms of education. The term can also refer to the mental states and qualities of educated people. Additionally, it can mean the academic field studying education.",
+        "price": 289.99
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/mtKcdkT/young-handsome-physician-medical-robe-with-stethoscope-11zon-11zon.jpg",
+        "title": "Team of medical experts",
+        "category": "Health",
+        "categoryBgColor": "#AEC8FF",
+        "cardBgColor": "#D9E5FF",
+        "primaryColor": "#0052FF",
+        "dsc": "An increasing number of studies and reports from different organizations and contexts examine the linkages between health and different factors, including lifestyles, environments, health care organization and health policy, one specific health policy brought into many countries in recent years was the introduction of the sugar tax.",
+        "price": 299.99
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/YcbmL9N/successful-medical-team-11zon.jpg",
+        "title": " Essential health services",
+        "category": "Health",
+        "categoryBgColor": "#AEC8FF",
+        "cardBgColor": "#D9E5FF",
+        "primaryColor": "#0052FF",
+        "dsc": "An increasing number of studies and reports from different organizations and contexts examine the linkages between health and different factors, including lifestyles, environments, health care organization and health policy, one specific health policy brought into many countries in recent years was the introduction of the sugar tax.",
+        "price": 209.99
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/Z112fhK/pile-books-pencils-desk-11zon.jpg",
+        "title": "Encouraged by education",
+        "category": "Education",
+        "categoryBgColor": "#FFC3C5",
+        "cardBgColor": "#FFE3E4",
+        "primaryColor": "#FF444A",
+        "dsc": "Education is the transmission of knowledge, skills, and character traits. There are many debates about its precise definition, for example, about which aims it tries to achieve. A further issue is whether part of the meaning of education is that the change in the student is an improvement. Some researchers stress the role of critical thinking to distinguish education from indoctrination. These disagreements affect how to identify, measure, and improve forms of education. The term can also refer to the mental states and qualities of educated people. Additionally, it can mean the academic field studying education.",
+        "price": 439.99
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co/JFqs1C1/volunteers-using-digital-tablet-11zon.jpg",
+        "title": "Women's Clothing",
+        "category": "Clothing",
+        "categoryBgColor": "#D4ECC1",
+        "cardBgColor": "#EBF6E2",
+        "primaryColor": "#79C23F",
+        "dsc": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together. The wearing of clothing is mostly restricted to human beings and is a feature of all human societies. The amount and type of clothing worn depends on gender, body type, social factors, and geographic considerations. Garments cover the body, footwear covers the feet, gloves cover the hands, while hats and headgear cover the head, and underwear covers the private parts.",
+        "price": 219.99
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co/LSTbCNZ/close-up-volunteers-collecting-food-donations-11zon.jpg",
+        "title": "food made with love",
+        "category": "Food",
+        "categoryBgColor": "#FDD2C4",
+        "cardBgColor": "#FEEAE3",
+        "primaryColor": "#F87147",
+        "dsc": "Food is any substance consumed by an organism for nutritional support. Food is usually of plant, animal, or fungal origin and contains essential nutrients such as carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth. Different species of animals have different feeding behaviours that satisfy the needs of their metabolisms and have evolved to fill a specific ecological niche within specific geographical contexts.",
+        "price": 291.99
+    }
+]
