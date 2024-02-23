@@ -1,7 +1,12 @@
 import React from 'react';
 import backImg from '../assets/Clothing.png'; // Import your background image
 
+
+
 const Banner = () => {
+
+
+
     return (
         <div className="relative h-screen flex justify-center items-center">
             <div className="absolute inset-0">
